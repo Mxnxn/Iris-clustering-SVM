@@ -18,7 +18,7 @@ df = pd.read_csv('./Iris.csv')
 
 ### About Flower Features
 
-![download.png](attachment:./download.png)
+![download.png](/download.png)
 
 
 ```python
